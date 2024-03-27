@@ -25,7 +25,7 @@ def game():
   print(logo)
   
   print("Welcome to the Number Guessing Game!!")
-  print("I am thinking of a number between 1 to 100.")
+  #print("I am thinking of a number between 1 to 100.")
   
   number = random.randint(1,100)
   attempts = 0
